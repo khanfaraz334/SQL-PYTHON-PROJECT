@@ -1,7 +1,6 @@
-# SQL-PYTHON-PROJECT
-Plant Management System
+# Plant Management System
 
-Overview
+## Overview
 
 The Plant Management System is a comprehensive application that enables users to manage a plant store efficiently. The system provides functionalities for plant inventory management, user authentication, order processing, and data tracking. Built with Python and MySQL, it ensures seamless interactions for both customers and administrators.
 
