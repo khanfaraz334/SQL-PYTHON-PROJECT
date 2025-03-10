@@ -4,27 +4,27 @@
 
 The Plant Management System is a comprehensive application that enables users to manage a plant store efficiently. The system provides functionalities for plant inventory management, user authentication, order processing, and data tracking. Built with Python and MySQL, it ensures seamless interactions for both customers and administrators.
 
-Features
+## Features
 
-1. User Authentication & Roles
+## 1. User Authentication & Roles
 
-Users can sign up and log in with unique credentials.
+- Users can sign up and log in with unique credentials.
 
-Two user roles:
+- Two user roles:
 
-Admin: Can manage plant inventory and view orders.
+  - Admin: Can manage plant inventory and view orders.
 
-Customer: Can browse available plants and place orders.
+  - Customer: Can browse available plants and place orders.
 
-2. Plant Inventory Management (Admin)
+## 2. Plant Inventory Management (Admin)
 
-Add New Plants: Input details like name, flower color, lifespan, plant type, bloom time, height, leaf type, and price.
+- Add New Plants: Input details like name, flower color, lifespan, plant type, bloom time, height, leaf type, and price.
 
-Update Plant Details: Modify specific attributes such as price or bloom time.
+- Update Plant Details: Modify specific attributes such as price or bloom time.
 
-Delete Plants: Remove plants from the inventory.
+- Delete Plants: Remove plants from the inventory.
 
-View Available Plants: Display all plants in a structured table format.
+- View Available Plants: Display all plants in a structured table format.
 
 3. Order Processing (Customer)
 
