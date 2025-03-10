@@ -182,6 +182,24 @@ Enter your delivery address: 123 Green Street, City
 
 (Order details saved in orders.csv)
 
+## Screenshots
+
+Below are some screenshots demonstrating key functionalities of the system:
+
+1. ** Welcome Screen ** - Displays a greeting message when the program starts.
+
+2. ** Login & Sign-up Screens ** - Allows users to authenticate and create new accounts.
+
+3. ** Admin Panel ** - Shows options to manage plants and view orders.
+
+4. ** Customer Panel ** - Enables customers to view available plants and place orders.
+
+5. ** Order Placement ** - Displays order confirmation with transaction ID.
+
+6. ** Database Table Views ** - Screenshots of MySQL tables (plants, users, orders).
+
+7. ** CSV File Logs ** - Demonstrates successful storage of users, plants, and orders in CSV files.
+
 ## Future Enhancements
 
 - GUI Development: Integrate a web or desktop UI.
