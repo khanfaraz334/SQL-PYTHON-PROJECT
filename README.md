@@ -129,7 +129,7 @@ CREATE TABLE orders (
 
 #### 1. Clone the repository:
 
-git clone https://github.com/khanfaraz334/plant-management-system.git
+git clone [https://github.com/khanfaraz334/plant-management-system](https://github.com/khanfaraz334/SQL-PYTHON-PROJECT).git
 cd plant-management-system
 
 #### 2. Run the script:
@@ -194,5 +194,5 @@ Enter your delivery address: 123 Green Street, City
 
 ## Contributors
 
-- Faraz Khan – [My GitHubh] (https://github.com/khanfaraz334/)
+- Faraz Khan – [My GitHub](https://github.com/khanfaraz334/)
 
