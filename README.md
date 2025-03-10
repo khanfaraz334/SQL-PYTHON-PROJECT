@@ -130,7 +130,7 @@ CREATE TABLE orders (
 #### 1. Clone the repository:
 
 git clone [https://github.com/khanfaraz334/plant-management-system](https://github.com/khanfaraz334/SQL-PYTHON-PROJECT).git
-cd plant-management-system
+cd SQL-PYTHON-PROJECT
 
 #### 2. Run the script:
 
