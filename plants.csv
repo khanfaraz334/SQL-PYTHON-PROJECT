@@ -1,0 +1,11 @@
+Plant_ID,Plant_Name,Flower_Color,Lifespan,Plant_Type,Bloom_Time,Avg_Plant_Height_cm,Leaf_Type,Price_INR
+1,Spider Plant,White,Perennial,Herb,Summer,37,Evergreen,180
+2,Snake Plant,"Green, White",Perennial,"Succulent, Herb",Spring,115,Evergreen,180
+3,Aloe vera,"Yellow, Orange",Perennial,"Succulent, Herb","Spring, Summer",60,Evergreen,200
+4,Ditch lily,"Orange, Red",Perennial,Herb,"Spring, Summer",95,Deciduous,100
+5,Dragon fruit,"White, Green",Perennial,"Succulent, Shrub, Vine","Spring, Summer, Fall",900,Evergreen,110
+6,Flamingo flower,"Red, Yellow",Perennial,Herb,All year round,45,Evergreen,125
+7,Garden dahlia,"Red, White",Perennial,Herb,"Summer, Fall",150,Deciduous,195
+8,Horseweed,"White, Yellow","Annual, Biennial",Herb,"Summer, Fall",100,Deciduous,160
+9,Indian Laurel,Green,Perennial,Tree,Summer,200,Evergreen,175
+10,Lemon balm,"White, Purple","Perennial, Annual",Herb,"Summer, Fall",90,Deciduous,185

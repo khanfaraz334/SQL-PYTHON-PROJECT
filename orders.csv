@@ -1,0 +1,9 @@
+order_id,username,transaction_id,total_price,payment_mode,delivery_address,order_date
+1,user1,YQ4ZAWAJ2E,300.00,cash,sarita vihar,2024-11-12 13:39:33
+2,Samyak,P2QNNQ6637,1850.00,Cash,Sarita Vihar,2024-11-14 01:11:38
+3,Bushra,5VF5UE943U,3700.00,credit Card,Jasola,2024-11-14 12:51:08
+4,Bushra,U6BBS2JI8P,540.00,Cash,Jasola,2024-11-18 23:17:00
+5,Bushra,G8L1FX6JZE,220.00,Cash,Sarita Vihar,2025-02-02 01:51:43
+6,Samyak,WNPZZHHIPV,1000.00,Cash,Jasola,2025-02-02 02:03:29
+7,Samyak,BET4LZXXG3,360.00,cash,123,2025-02-02 02:26:29
+8,Samyak,MKSVJNUDYQ,180.00,cash,jasola,2025-02-02 02:43:24
