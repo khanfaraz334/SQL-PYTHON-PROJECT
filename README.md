@@ -26,74 +26,74 @@ The Plant Management System is a comprehensive application that enables users to
 
 - View Available Plants: Display all plants in a structured table format.
 
-3. Order Processing (Customer)
+## 3. Order Processing (Customer)
 
-Place Orders: Select plants, specify quantity, and confirm payment mode.
+- Place Orders: Select plants, specify quantity, and confirm payment mode.
 
-Generate Unique Transaction IDs for order tracking.
+- Generate Unique Transaction IDs for order tracking.
 
-Automatic ID Assignment for seamless order management.
+- Automatic ID Assignment for seamless order management.
 
-Order Data Logging in a MySQL database and CSV file.
+- Order Data Logging in a MySQL database and CSV file.
 
-4. Data Storage & Logging
+## 4. Data Storage & Logging
 
-MySQL Database Integration:
+- MySQL Database Integration:
 
-plants table stores plant details.
+  - plants table stores plant details.
 
-users table manages user accounts.
+  - users table manages user accounts.
 
-orders table logs customer purchases.
+  - orders table logs customer purchases.
 
-CSV & Binary File Logging:
+- CSV & Binary File Logging:
 
-users.csv stores registered users.
+  - users.csv stores registered users.
 
-plants.csv maintains plant inventory.
+  - plants.csv maintains plant inventory.
 
-orders.csv logs all customer purchases.
+  - orders.csv logs all customer purchases.
 
-activity_log.bin records system actions.
+  - activity_log.bin records system actions.
 
-Technologies Used
+## Technologies Used
 
-Programming Language: Python
+- Programming Language: Python
 
-Database: MySQL
+- Database: MySQL
 
-Libraries:
+- Libraries:
 
-mysql-connector-python (MySQL connectivity)
+  - mysql-connector-python (MySQL connectivity)
 
-tabulate (Formatted table display)
+  - tabulate (Formatted table display)
 
-csv (Data export)
+  - csv (Data export)
 
-pickle (Binary file logging)
+  - pickle (Binary file logging)
 
-Installation & Setup
+## Installation & Setup
 
-Prerequisites
+### Prerequisites
 
 Ensure the following software is installed:
 
-Python 3.10+
+  - Python 3.10+
 
-MySQL Server & MySQL Workbench
+  - MySQL Server & MySQL Workbench
 
-Required Python libraries:
+  - Required Python libraries:
 
-pip install mysql-connector-python tabulate
+      #### pip install mysql-connector-python tabulate
 
-Database Setup
+### Database Setup
 
-Create the database:
+#### 1. Create the database:
 
 CREATE DATABASE plantstore;
 USE plantstore;
 
-Create tables:
+#### 2. Create tables:
 
 CREATE TABLE plants (
   Plant_ID INT AUTO_INCREMENT PRIMARY KEY,
@@ -125,32 +125,32 @@ CREATE TABLE orders (
   FOREIGN KEY (username) REFERENCES users(username)
 );
 
-Running the Application
+## Running the Application
 
-Clone the repository:
+#### 1. Clone the repository:
 
-git clone https://github.com/your-username/plant-management-system.git
+git clone https://github.com/khanfaraz334/plant-management-system.git
 cd plant-management-system
 
-Run the script:
+#### 2. Run the script:
 
 python FINAL_CS_PROJECT.py
 
-Usage
+## Usage
 
-User Flow
+## User Flow
 
-New users must sign up before logging in.
+1. New users must sign up before logging in.
 
-Admins can manage plant data, while customers can browse plants and place orders.
+2. Admins can manage plant data, while customers can browse plants and place orders.
 
-Orders are stored in the database and logged in orders.csv.
+3. Orders are stored in the database and logged in orders.csv.
 
-Admins can view and manage all orders.
+4. Admins can view and manage all orders.
 
-Example Admin Actions
+## Example Admin Actions
 
-Adding a plant:
+### - Adding a plant:
 
 Enter Plant Name: Aloe Vera
 Enter Flower Color: Yellow
@@ -161,19 +161,19 @@ Enter Average Plant Height (in cm): 60
 Enter Leaf Type: Evergreen
 Enter Price (in INR): 200
 
-Updating plant details:
+### - Updating plant details:
 
 Enter the Plant ID to update: 3
 Enter the column to update: Price_INR
 Enter the new value: 250
 
-Deleting a plant:
+### - Deleting a plant:
 
 Enter the Plant ID to delete: 5
 
-Example Customer Actions
+## Example Customer Actions
 
-Placing an order:
+### - Placing an order:
 
 Enter the Plant ID you want to purchase: 2
 Enter the quantity: 3
@@ -182,17 +182,17 @@ Enter your delivery address: 123 Green Street, City
 
 (Order details saved in orders.csv)
 
-Future Enhancements
+## Future Enhancements
 
-GUI Development: Integrate a web or desktop UI.
+- GUI Development: Integrate a web or desktop UI.
 
-Online Payments: Implement real-time payment processing.
+- Online Payments: Implement real-time payment processing.
 
-Email Notifications: Send order confirmations via email.
+- Email Notifications: Send order confirmations via email.
 
-Advanced Analytics: Generate sales reports and inventory insights.
+- Advanced Analytics: Generate sales reports and inventory insights.
 
-Contributors
+## Contributors
 
-Your Name – Faraz Khan (khanfaraz334)
+- Faraz Khan – [My GitHubh] (https://github.com/khanfaraz334/)
 
