@@ -186,19 +186,32 @@ Enter your delivery address: 123 Green Street, City
 
 Below are some screenshots demonstrating key functionalities of the system:
 
-1. ** Welcome Screen ** - Displays a greeting message when the program starts.
+1. **Welcome Screen** - Displays a greeting message when the program starts.
+                    ![image](https://github.com/user-attachments/assets/2af94bda-21c7-4ec6-941f-b6be98598534)
 
-2. ** Login & Sign-up Screens ** - Allows users to authenticate and create new accounts.
+2. **Login & Sign-up Screens** - Allows users to authenticate and create new accounts.
+                    ![image](https://github.com/user-attachments/assets/97fe248c-cf04-4bf0-8568-c2bca313001b)
 
-3. ** Admin Panel ** - Shows options to manage plants and view orders.
+3. **Admin Panel** - Shows options to manage plants and view orders.
+                    ![image](https://github.com/user-attachments/assets/89cc8745-83af-4934-b351-9508fd314d35)
 
-4. ** Customer Panel ** - Enables customers to view available plants and place orders.
+4. **Customer Panel** - Enables customers to view available plants and place orders.
+                    ![image](https://github.com/user-attachments/assets/4f7a72d3-a24e-46a9-89cb-8bf458985661)
 
-5. ** Order Placement ** - Displays order confirmation with transaction ID.
+5. **Order Placement** - Displays order confirmation with transaction ID.
+                    ![image](https://github.com/user-attachments/assets/0fb1ee16-fd21-4629-80f2-ab9ef83cc5e7)
+                    ![image](https://github.com/user-attachments/assets/41a1102f-bc5b-4138-ac7c-f5b8569324d0)
+                    ![image](https://github.com/user-attachments/assets/bde76bb3-e76c-4969-a73c-84fc96dc6382)
 
-6. ** Database Table Views ** - Screenshots of MySQL tables (plants, users, orders).
+6. **Database Table Views** - Screenshots of MySQL tables (plants, users, orders).
+                    ![image](https://github.com/user-attachments/assets/68750802-0746-4585-afdc-0e08fab074b2)
+                    ![image](https://github.com/user-attachments/assets/bf142978-c86c-459e-b0ab-1293a37598a3)
+                    ![image](https://github.com/user-attachments/assets/78942451-0f5b-4471-8e2e-7edd8c36195a)
 
-7. ** CSV File Logs ** - Demonstrates successful storage of users, plants, and orders in CSV files.
+7. **CSV File Logs** - Demonstrates successful storage of users, plants, and orders in CSV files.
+                    ![image](https://github.com/user-attachments/assets/b1b588c2-8ca9-430f-b86c-e3dabb1a5a9e)
+                    ![image](https://github.com/user-attachments/assets/b2333edd-c982-4841-bb28-91fb0c370c5a)
+                    ![image](https://github.com/user-attachments/assets/20480cbd-4f03-40be-a5bc-7a82d61981f0)
 
 ## Future Enhancements
 
